@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MesutAlver
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Swift&SwiftUI for iOS Development
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on other developers.
 - 📫 How to reach me mesutalver@icloud.com
 
 <!---
