@@ -28,7 +28,7 @@
 <a href="https://twitter.com/mesalvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesalvv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/n/mesut-alver-31208b1a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n/mesut-alver-31208b1a9/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17402773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17402773" height="30" width="40" /></a>
-<a href="https://instagram.com/mesutalver1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mesutalver1" height="30" width="40" /></a>
+<a href="https://instagram.com/mesalvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mesutalver1" height="30" width="40" /></a>
 <a href="https://medium.com/@mesutalver1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mesutalver1905" height="30" width="40" /></a>
 </p>
 
