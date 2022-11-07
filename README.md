@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Swift&SwiftUI**
 
-- 🌱 I’m currently learning **swiftUI,Python**
+- 🌱 I’m currently learning **Swift&SwiftUI**
 
 - 📝 I regularly write articles on [https://medium.com/@mesutalver1905](https://medium.com/@mesutalver1905)
 
-- 💬 Ask me about **Swift-Html-Css-cyberSecurity**
+- 💬 Ask me about **Swift&KaliLinux&cyberSecurity**
 
 - 📫 How to reach me **mesutalver@icloud.com**
 
